@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning developing
 - 🌱 I’m currently learning MSA
 - 💞️ I’m looking to collaborate on you
-- 📫 How to reach me hanee9492@gmail.com
+- 📫 How to reach me email | hanee9492@gmail.com
 
 <!---
 number1hany/number1hany is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
